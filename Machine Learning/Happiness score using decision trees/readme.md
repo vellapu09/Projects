@@ -1,4 +1,4 @@
-### README.md for the Decision Trees Project
+### Decision Trees Project
 
 #### Project Overview
 This project applies Decision Tree Classifiers to predict happiness levels based on various factors reported in the World Happiness Report data for multiple years. The happiness levels are categorized into 'Weak Happy', 'Moderate Happy', and 'Strong Happy' based on the 'Happiness Score'. The model uses several features for prediction, including 'Economy (GDP per Capita)', 'Family', 'Health (Life Expectancy)', 'Freedom', 'Trust (Government Corruption)', 'Generosity', and 'Dystopia Residual'.
